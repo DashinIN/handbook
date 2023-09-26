@@ -1,0 +1,19 @@
+.buttonsRow {
+    display: flex;
+    gap: 16px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.countryBtn {
+    font-size: 1.2rem;
+}
+
+.active {
+    background-color: blueviolet;
+    color: white;
+}
